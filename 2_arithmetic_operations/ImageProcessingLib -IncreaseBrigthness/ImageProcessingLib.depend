@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1549676354 source:c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1549676309 c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib\include\imageprocessing.h
+
+1549676489 source:c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1549681310 source:c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib -binarization\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1549681354 c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib -binarization\include\imageprocessing.h
+
+1549681364 source:c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib -binarization\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1549682151 source:c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib -increasebrigthness\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1549682151 c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib -increasebrigthness\include\imageprocessing.h
+
+1549682173 source:c:\users\israel\documents\cpp-imageprocessing\imageprocessinglib -increasebrigthness\src\imageprocessing.cpp
+	"ImageProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
